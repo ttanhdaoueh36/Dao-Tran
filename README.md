@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **building up my GitHub profile with data science projects.** 
 - 📄 I graduated [MSc in Applied Information and Data Science](https://www.hslu.ch/de-ch/wirtschaft/studium/master/applied-information-and-data-science/) at Hochschule Luzern (Switzerland).
-- 👯  My data visualization projects can be found at: [Tableau](https://public.tableau.com/app/profile/anh.dao.tran).**
-- 💻  All of my data analysis projects are available at [GitHub](https://github.com/ttanhdaoueh36)
-- ⚡ Fun fact: **When I am not digging into data, I love cooking, swimming, running and handicraft making.** 
+- 💻  All of my data analysis projects are available at [GitHub](https://github.com/ttanhdaoueh36).
+- 👯  My data visualization projects can be found at: [Tableau](https://public.tableau.com/app/profile/anh.dao.tran).
+- ⚡ Fun fact: When I am not digging into data, I love cooking, swimming, running and handicraft making.
 
 
 <h3 align="left">Connect with me:</h3>
